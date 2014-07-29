@@ -1,0 +1,35 @@
+/* IE 7 Fixes */
+
+#userloginForm TD.mw-input {
+	width: 180px
+}
+
+#bs-flyout-content ul {
+	margin: -1px 0 0 0;
+}
+
+.bs-statebar-top-icon {
+	display: inline;
+}
+
+.bs-bookshelf-toc ul {
+	list-style-type: none;
+}
+
+#bodyContent ul, .mceContentBody ul {
+	list-style-type: square !important;
+	list-style-image: none !important;
+}
+
+#bs-flyout-content ul {
+	margin: 0;
+	padding-left: 0;
+}
+
+#bs-personal-menu {
+    margin: 22px 0 0 -130px;
+}
+
+li#ca-more ul {
+    margin: 14px 0 0 -132px;
+}

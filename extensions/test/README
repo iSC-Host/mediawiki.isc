@@ -1,0 +1,9 @@
+This is an test extension by Suriyaa Kudo. It doesn't really do anything on its own. It is
+intended to provide a sample layout of a MediaWiki extension.
+
+
+Usage: Add only require_once( "$IP/extensions/SiteMatrix/SiteMatrix.php" ); to LocalSettings.php.
+
+----
+
+Copyright 2014 iSC Inc.

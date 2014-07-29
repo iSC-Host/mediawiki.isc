@@ -1,0 +1,12 @@
+/* Special styles for IE */
+
+.bs-statebar-top-icon {
+  display: inline;
+}
+
+/* formatting permissionmanager table lines */
+  
+.x-pivotgrid .x-grid3-row-headers table td {
+  height: 25px !important;
+  font-size: 10spx;
+}

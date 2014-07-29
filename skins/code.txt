@@ -1,0 +1,22 @@
+require_once("$IP/skins/monaco/animonaco.php");
+require_once "$IP/skins/foreground/foreground.php";
+require_once("$IP/skins/Nimbus/Nimbus.php");
+require_once( "$IP/skins/Refreshed/Refreshed.php" );
+require_once "$IP/skins/chameleon/chameleon.php";
+require_once( "$IP/skins/strapping/strapping.php" );
+require_once("$IP/skins/cavendishmw/cavendishmw.php");
+
+gmwfreeblue
+gmwfreegreen
+gmwfreered
+
+require_once "$IP/skins/filament/filament.php';
+require_once( "$IP/skins/mediawiki-bootstrap/bootstrap.php");
+require_once "$IP/skins/erudite/erudite.php";
+
+KindofBlue
+Rounded Blue Edition
+Rounded Sassy
+Minit
+Pixeled
+WPtouch

@@ -1,0 +1,11 @@
+Repositorium:   MediaWiki core
+Versionszweig:	REL1_2
+HEAD:	        43e9eefd14db04af8ae5fac23ec01d4169801171
+Datum:          Thu, 02 Mar 2006 02:24:57 +0000
+Dateigröße:     2.51 MB (2634253 bytes)
+Hash:           MD5: 598815f993ddc5c18e1a17e48d2b67c7
+                SHA1: 5a905fe5e30ce21d99b4403aac1e6d41ac2ce82c
+
+
+Source:         https://tools.wmflabs.org/snapshots/#!/mediawiki-core/REL1_3
+Download:       15.06.2014

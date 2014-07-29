@@ -1,0 +1,21 @@
+/* IE 9 Fixes */
+
+.x-btn-text {
+	background: #fff;
+}
+
+button.bs-search-button-specialpage {
+	padding-bottom: 4px !important;
+}
+
+div#bs-extendedsearch-titlebuttonimage-specialpage {
+	margin-top: 2px !important;
+}
+
+div#bs-extendedsearch-fulltextbuttonimage-specialpage {
+	margin-top: 2px !important;
+}
+
+#bs-extendedsearch-inputfieldtext-specialpage {
+	padding-top: 5px !important;
+}

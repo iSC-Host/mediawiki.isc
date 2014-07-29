@@ -1,0 +1,8 @@
+/* IE 9 Fixes */
+
+.x-btn-text {
+	background: #fff;
+}
+.ext-strict .x-grid3-cell-inner, .ext-strict .x-grid3-hd-inner {
+	height: 20px !important;
+}

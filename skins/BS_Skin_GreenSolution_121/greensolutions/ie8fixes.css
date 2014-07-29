@@ -1,0 +1,26 @@
+/* IE 8 Fixes */
+
+#bs-extendedsearch-inputfieldtext-specialpage {
+	margin-bottom: 5px !important;
+	margin-left: 10px !important;
+}
+
+button.bs-search-button-specialpage {
+	padding-bottom: 4px !important;
+}
+
+#bs-extendedsearch-all-filter-boxes input[type="checkbox"] {
+	background: none;
+	width: 12px;
+	height: 12px;
+}
+
+#bs-extendedsearch-all-filter-boxes input[type="checkbox"] +label {
+	margin-left: 0px !important;
+	background: none !important;
+	padding-left: 0px !important;
+}
+
+.facetBarEntry {
+	padding-left: 0px !important;
+}
